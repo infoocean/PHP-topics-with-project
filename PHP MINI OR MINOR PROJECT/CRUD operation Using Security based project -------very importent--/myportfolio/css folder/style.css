@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+p{
+	line-height: 20px;
+	font-size: 20px;
+	font-family: arial;
+}
+header a{
+	font-size: 20px;
+}
+.active{
+	color: white;
+}
+
+label{
+	color: white;
+	font-weight: bold;
+	font-family: century gothic;
+	word-spacing: 2px;
+	font-size: 18px;
+}
+
+
+
+  
+ 
